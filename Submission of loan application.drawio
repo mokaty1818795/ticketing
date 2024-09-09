@@ -1,9 +1,115 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="4up6E8fk-rW87Etry3SX">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="cUvGrPuTZkt3ut1KqYVi-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-3" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="70" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-4" value="Informs Alliance that to apply for a loan and provides policy number" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="190" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-5" value="client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-7" value="Client Services Officer/&lt;br&gt;Branch Administrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="305" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-8" value="Checks Outstanding Loan Balance&amp;nbsp; and Affordability" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="360" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755.2222222222222" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-10" value="Are all Check Successful" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="560" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="678" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-14" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="588" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="610.3684210526317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-15" value="Informs client of ineligibility to apply fo a loan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="560" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755.2105263157896" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-17" value="Completes loan application form and provides the required documentation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="820" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1050.3684210526317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-19" value="Checks the loan application form and the required documentation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="1000" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="1050.3684210526317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-20" value="Escalates/emails the loan application to the claims Administrator&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1000" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1332.0526315789475" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-23" value="Scans and captures the application form and&amp;nbsp; required documentation in the document management system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1000" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUvGrPuTZkt3ut1KqYVi-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1332.0526315789475" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-25" value="Sends forms for off-side storage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="780" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="573" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUvGrPuTZkt3ut1KqYVi-29" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="543" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
