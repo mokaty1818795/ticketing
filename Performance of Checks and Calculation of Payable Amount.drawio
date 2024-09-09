@@ -1,150 +1,196 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="dk5JG5BG7dUx-bN79BuE">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5400" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ftPaLTM5NW6tohYGkFOO-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="-855" y="880" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ftPaLTM5NW6tohYGkFOO-1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="120" as="targetPoint" />
+            <mxPoint x="-840" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-3" value="Claims Administrator&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="63" width="130" height="40" as="geometry" />
+          <mxGeometry x="-825" y="913" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="839.9999999999998" y="160.31034482758628" as="targetPoint" />
-            <mxPoint x="744.9999999999998" y="160" as="sourcePoint" />
+            <mxPoint x="-695.0000000000002" y="1010.3103448275863" as="targetPoint" />
+            <mxPoint x="-790.0000000000002" y="1010" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-4" value="Pefroms the waiting period check" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="645" y="120" width="100" height="100" as="geometry" />
+          <mxGeometry x="-890" y="970" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="159.9655172413793" as="targetPoint" />
+            <mxPoint x="-445" y="1009.9655172413793" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="899.9655172413793" y="360" as="targetPoint" />
+            <mxPoint x="-635.0344827586207" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-6" value="Has waiting period been completed?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="105" width="120" height="110" as="geometry" />
+          <mxGeometry x="-695" y="955" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-8" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="128" width="40" height="30" as="geometry" />
+          <mxGeometry x="-555" y="978" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-10" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="250" width="50" height="30" as="geometry" />
+          <mxGeometry x="-635" y="1100" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-11" value="Claim is not valid and is therefore recommended for repudiation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="110" width="140" height="100" as="geometry" />
+          <mxGeometry x="-445" y="960" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="540" as="targetPoint" />
+            <mxPoint x="-635" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-12" target="ftPaLTM5NW6tohYGkFOO-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="415" />
-              <mxPoint x="1000" y="185" />
+              <mxPoint x="-535" y="1265" />
+              <mxPoint x="-535" y="1035" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-12" value="Is The Policy&lt;br&gt;&amp;nbsp;Active?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="360" width="120" height="110" as="geometry" />
+          <mxGeometry x="-695" y="1210" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="480" width="40" height="30" as="geometry" />
+          <mxGeometry x="-685" y="1330" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-17" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="388" width="40" height="30" as="geometry" />
+          <mxGeometry x="-575" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="590.3103448275863" as="targetPoint" />
+            <mxPoint x="-455" y="1440.3103448275863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-19" value="Performs check on the Life Assured&lt;br&gt;Date Of Birth" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="835" y="540" width="130" height="100" as="geometry" />
+          <mxGeometry x="-700" y="1390" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="590" as="targetPoint" />
+            <mxPoint x="-125" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-21" value="Did the life assured&lt;br&gt;&amp;nbsp;qualify for policy upon&lt;br&gt;inception?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="521.25" width="150" height="137.5" as="geometry" />
+          <mxGeometry x="-455" y="1371.25" width="150" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.47;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-21" target="ftPaLTM5NW6tohYGkFOO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-24" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="478" width="40" height="30" as="geometry" />
+          <mxGeometry x="-415" y="1328" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-26" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="560" width="50" height="30" as="geometry" />
+          <mxGeometry x="-305" y="1410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1660" y="590" as="targetPoint" />
+            <mxPoint x="125" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-27" value="Performs the cause&amp;nbsp;&lt;br&gt;of death&amp;nbsp;&lt;br&gt;where applicable" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="540" width="130" height="100" as="geometry" />
+          <mxGeometry x="-125" y="1390" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1735.3529411764707" y="770" as="targetPoint" />
+            <mxPoint x="200.35294117647072" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-29" value="Is the cause of death&amp;nbsp;&lt;br&gt;covered in&lt;br&gt;&amp;nbsp;the policy?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="521.25" width="150" height="137.5" as="geometry" />
+          <mxGeometry x="125" y="1371.25" width="150" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1174" y="210" as="targetPoint" />
+            <mxPoint x="-361" y="1060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1735" y="480" />
-              <mxPoint x="1174" y="480" />
+              <mxPoint x="200" y="1330" />
+              <mxPoint x="-361" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-31" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="448" width="40" height="30" as="geometry" />
+          <mxGeometry x="95" y="1298" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-33" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="678" width="50" height="30" as="geometry" />
+          <mxGeometry x="205" y="1528" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1744.7647058823532" y="1000" as="targetPoint" />
+            <mxPoint x="209.76470588235316" y="1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-34" value="Performs&amp;nbsp; checks on documents" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="770" width="130" height="100" as="geometry" />
+          <mxGeometry x="145" y="1620" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1970" y="1068.4705882352941" as="targetPoint" />
+            <mxPoint x="435" y="1918.4705882352941" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.76470588235316" y="2130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-36" value="Are Documents&lt;br&gt;authentic?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1000" width="150" height="137.5" as="geometry" />
+          <mxGeometry x="135" y="1850" width="150" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="ftPaLTM5NW6tohYGkFOO-38" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1028" width="40" height="30" as="geometry" />
+          <mxGeometry x="305" y="1890" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ftPaLTM5NW6tohYGkFOO-39" value="Performs&amp;nbsp; checks on documents" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1010" width="130" height="100" as="geometry" />
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-39" value="Claim is put on hold for further investigation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1869" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-41" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="2008" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-42" value="Performs check on whether names on supporting documents&lt;br&gt;correspond with the names on the policy contract" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="2130" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-44" value="Do names&amp;nbsp;&lt;div&gt;correspond?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="415" y="2111.25" width="150" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-46" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="2070" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-48" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="2148" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ftPaLTM5NW6tohYGkFOO-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="2179.6470588235293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-50" value="Performs checks on&lt;br&gt;beneficiary on the claim&lt;br&gt;form" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="685" y="2130" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ftPaLTM5NW6tohYGkFOO-52" value="Do names&amp;nbsp;&lt;div&gt;correspond?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="925" y="2111.25" width="150" height="137.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
