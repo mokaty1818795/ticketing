@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="_HyFxnx3e3SqbfftZUx7">
-    <mxGraphModel>
+    <mxGraphModel dx="1147" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="xQH-vZsC5yLmWHYrFkzz-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.8571428571429" y="520" as="targetPoint" />
+            <mxPoint x="640" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-3" value="Escalates the claim for approval" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="585" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-4" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-5" value="Claims Administrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="318" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xQH-vZsC5yLmWHYrFkzz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-7" value="Approves the loan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="520" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xQH-vZsC5yLmWHYrFkzz-8" target="xQH-vZsC5yLmWHYrFkzz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-8" value="System generates a loan number to be used as a reference&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="520" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQH-vZsC5yLmWHYrFkzz-10" target="xQH-vZsC5yLmWHYrFkzz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-10" value="Prepares a payment requisition using the loan reference number" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="520" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQH-vZsC5yLmWHYrFkzz-12" target="xQH-vZsC5yLmWHYrFkzz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-12" value="Scans the physical documentation into the document management system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="640" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xQH-vZsC5yLmWHYrFkzz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810.1282051282051" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-14" value="Sends physical documents for off-side storage" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="640" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-20" value="Head of Administration/&lt;br&gt;Claims Supervisor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xQH-vZsC5yLmWHYrFkzz-22" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="808" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
