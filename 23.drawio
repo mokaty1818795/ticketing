@@ -1,9 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="as_nq-n-DWCYD5p-W_CB">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="970" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Ow2IpyKAjDjnXuldgJKP-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-3" value="START" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="955" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="982.1999999999998" y="570" as="targetPoint" />
+            <mxPoint x="982" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-4" value="Opens Unclassified Scans folder in the DMS and Selects the Scanner used for scanning&amp;nbsp; the proposal form and supporting documents" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="870" y="340" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-5" value="Digital Or Filing Administrator or Business Administrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="300" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ow2IpyKAjDjnXuldgJKP-7" target="Ow2IpyKAjDjnXuldgJKP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-7" value="Opens the&amp;nbsp; documents they want to capture into the DMS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="870" y="570" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ow2IpyKAjDjnXuldgJKP-8" value="Compares Hard Copies to Soft copies&lt;br&gt;to Confirm whether all documents have been scanned." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="570" width="220" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
