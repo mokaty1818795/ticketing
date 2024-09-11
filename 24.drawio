@@ -1,9 +1,89 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="7dUFiNJjNwGM0hT-h3Od">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RhapQYmatNSvlSp_oGsH-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="RhapQYmatNSvlSp_oGsH-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-3" value="Opens reporting views&amp;nbsp; in the Document Management System" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="340" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-4" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-5" value="Digital Filing Administrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-6" value="Opens&amp;nbsp; document imported creation report listings by sender email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="560" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-8" target="RhapQYmatNSvlSp_oGsH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-8" value="Selects the year of preference and scanner used for scanning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="900" y="560" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-10" value="Selects the year of preference and scanner used for scanning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="150" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-11" target="RhapQYmatNSvlSp_oGsH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-11" value="&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Arial Narrow&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-ansi-language:EN-ZA;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&lt;br/&gt;mso-bidi-font-weight:bold&quot;&gt;selects the month and date of scanning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="560" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-13" target="RhapQYmatNSvlSp_oGsH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-13" value="&lt;font face=&quot;Arial Narrow, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;highlights the captured policies and right clicks, got to create and right clicks on assignment&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="560" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-15" target="RhapQYmatNSvlSp_oGsH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-15" value="&lt;font face=&quot;Arial Narrow, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;creates an assignment and adds the new business Administrator, supervisor and new Business Manager with&amp;nbsp; deadline of the 5-day timeline&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="560" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-17" target="RhapQYmatNSvlSp_oGsH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-17" value="&lt;font face=&quot;Arial Narrow, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;NBA,New Business supervisor and Manager receives the policies assigned via email and M-files&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="370" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-19" target="RhapQYmatNSvlSp_oGsH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-19" value="Digital Filing Administrator stamps the proposal from and supporting document" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="370" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RhapQYmatNSvlSp_oGsH-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1249.947368421053" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-21" value="M-Files then automates an email reminder to the new&amp;nbsp; Business Administrator upon reaching the&amp;nbsp; 5-day capturing timeline" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="370" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RhapQYmatNSvlSp_oGsH-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
