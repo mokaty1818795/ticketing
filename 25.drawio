@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="sCh35zxkl4c-4KXfQGcW">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="810" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=12;strokeWidth=3;" edge="1" source="de1EIyCaMlRRTKUgNWi8-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-3" value="Digital Filing Administrator/&lt;br style=&quot;font-size: 12px;&quot;&gt;Business Adminstrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="830" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="832.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-4" value="Extracts a spreadsheet of scanned documents&lt;br style=&quot;font-size: 12px;&quot;&gt;from the DMS for Arranging Proposal forms&lt;br style=&quot;font-size: 12px;&quot;&gt;and supporting documents&lt;br style=&quot;font-size: 12px;&quot;&gt;in the box" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-6" value="Arranges and Packages Proposal forms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="760" y="490" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-8" value="Fills in the document information sheet and puts&lt;br style=&quot;font-size: 12px;&quot;&gt;it inside the box and seals" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="490" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-10" value="Attaches a bar code onto&lt;br style=&quot;font-size: 12px;&quot;&gt;the face of the box" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="490" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1582.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-11" value="Contacts the courier for box collection" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="490" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-14" value="Upon Collection the courier&amp;nbsp; signs the proof of delivery to acknowledge the receipt of the box" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="300" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;strokeWidth=3;" edge="1" parent="1" source="de1EIyCaMlRRTKUgNWi8-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1337.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-16" value="Registers&amp;nbsp; box and documents as Stored Off-side and&amp;nbsp; the number on the barcode is also captured in the Off-side Storage Spreadsheet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="300" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-18" value="Scans and sends the proof of delivery via email to the new business manager" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="130" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-19" value="Digital Filing Manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="248" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1142" y="157.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.852;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265" y="180.42" as="sourcePoint" />
+            <mxPoint x="1188.3400000000001" y="179.57999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-26" value="END" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="108" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="de1EIyCaMlRRTKUgNWi8-27" value="Sart" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="800" y="157.5" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
