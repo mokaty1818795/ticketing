@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="kIMUqWYpQiFc0VlccPSC">
-    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,124 +139,6 @@
         </mxCell>
         <mxCell id="J4y9EGVyNrogMtyehgwq-44" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2860" y="1192" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1350" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="705" y="1440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-3" value="START" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1320" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="702.1999999999998" y="1670" as="targetPoint" />
-            <mxPoint x="702" y="1540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-5" value="Opens Unclassified Scans folder in the DMS and Selects the Scanner used for scanning&amp;nbsp; the proposal form and supporting documents" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1440" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-6" value="Digital Or Filing Administrator or Business Administrator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1400" width="370" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-8" target="-HLSnd7ZOLtT-pq4wLqp-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-8" value="Opens the&amp;nbsp; documents they want to capture into the DMS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1670" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="1880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-10" value="Compares Hard Copies to Soft copies&lt;br style=&quot;font-size: 14px;&quot;&gt;to Confirm whether all documents have been scanned." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1670" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="1949.9523809523807" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-12" value="Are all hard copies&lt;br style=&quot;font-size: 14px;&quot;&gt;scanned?" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1880" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.719;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-12" target="-HLSnd7ZOLtT-pq4wLqp-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-14" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1918" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-15" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1918" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1670" y="1949.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-17" value="Confirms that the policy holder names are correct" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1900" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1749.5" y="2170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-19" value="Are policy holder names&lt;br style=&quot;font-size: 14px;&quot;&gt;correct?" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1870" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1960" y="2219.913043478261" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-21" value="Type in using the policy number on the proposal form, the system then populates&amp;nbsp; policy holder names linked to that policy." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="2170" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-22" value="Clicks on the&amp;nbsp; documents grouping and selects the product name" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="2170" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-24" target="-HLSnd7ZOLtT-pq4wLqp-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-24" value="Clicks on add property and&amp;nbsp; selects activity details and inputs submission date and time" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1918" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-22" target="-HLSnd7ZOLtT-pq4wLqp-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-26" value="Saves The Document" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1720" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2089.916666666667" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-28" value="Digital Filing Administrator&#39;s Name, time and date&amp;nbsp; reflects in the&amp;nbsp; DMS attached to&amp;nbsp; the policy number&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="1540" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.45;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-26" target="-HLSnd7ZOLtT-pq4wLqp-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="-HLSnd7ZOLtT-pq4wLqp-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1820" y="1410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-31" value="Document moves from unclassified to reporting views" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="1360" width="220" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-32" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1681.67" y="1340" width="136.67" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="-HLSnd7ZOLtT-pq4wLqp-33" value="END" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1400" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
